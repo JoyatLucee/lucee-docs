@@ -1,5 +1,5 @@
 ---
-title: LuceeLicense
+title: Lucee License
 id: lucee-server-license
 ---
 
@@ -10,7 +10,7 @@ Lucee uses the GNU Lesser General Public licence version 2.1 or as it is more co
 
 ### I'm not a lawyer, please explain LGPL ###
 
-There is a pretty good explanation here and even why you shouldn't use the LGPL. The 4cff.org also has an excellent PDF explaining licensing in general.
+There is a good explanation [here](https://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html) and even why you may not want to use the LGPL. 
 
 
 ### Can I host a non-commercial or a commercial website using Lucee? ###
@@ -39,4 +39,4 @@ If you modified the source, you must provide us a patch of what was modified.
 
 ### How does Lucee make money or stay in business? ###
 
-Lucee Technologies offers: Paid Extensions (cluster scope, cfvideo and more!), [Professional services](), [Support contracts](http://www.getrailo.com/index.cfm/services/consulting/) with full SLA Training
+Lucee is funded by member companies and company and individual supporters via [Open Source Collective](https://opencollective.com/lucee), a non-profit 501(c)(6) entity. Please consider supporting us!
